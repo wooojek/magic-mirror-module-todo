@@ -1,8 +1,12 @@
 import React from 'react';
+import ToDoList from './ToDoList';
 
 export const DashboardPage = () => (
   <div>
-    Here show to do list
+    <li>Summary</li>
+    <li>Filtering</li>
+    <li>Add To do</li>
+    <ToDoList />
   </div>
 );
 
