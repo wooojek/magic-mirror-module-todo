@@ -1,6 +1,6 @@
-# React App Boilerplate
+# To Do Module for Magic-Mirror project
 
-Basic React app boilerplate with firebase auth
+Standalone module for magic-mirror project
 
 ## Getting Started
 
